@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chaudharips1998@gmail.com**
 
-- 📄 Currently working in LTIMindtree and Exploring for new roles in Data Science
+- 📄 Currently working in LTIMindtree as a <b>"Senior Data Engineer".</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
